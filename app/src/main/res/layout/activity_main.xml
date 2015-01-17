@@ -9,71 +9,114 @@
             tools:context=".GridXMLActivity" >
 
     <TableRow
-        android:layout_width="match_parent"
         android:layout_weight="1">
 
         <ImageView
             android:id="@+id/imageView1"
             android:src="@drawable/baratheon"
+            android:layout_weight="1"
+            android:clickable="true"
             android:scaleType="fitXY"
-            android:layout_width="match_parent"
+            android:layout_width="0dp"
             android:layout_height="match_parent"/>
         <ImageView
             android:id="@+id/imageView4"
-            android:layout_gravity="center"
-            android:src="@drawable/ic_launcher"/>
+            android:src="@drawable/baratheon"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:scaleType="fitXY"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"/>
         <ImageView
             android:id="@+id/imageView7"
-            android:layout_gravity="center"
-            android:src="@drawable/ic_launcher"/>
+            android:src="@drawable/baratheon"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:scaleType="fitXY"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"/>
         <ImageView
             android:id="@+id/imageView10"
-            android:layout_gravity="center"
-            android:src="@drawable/ic_launcher"/>
+            android:src="@drawable/baratheon"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:scaleType="fitXY"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"/>
     </TableRow>
 
     <TableRow
-        android:layout_width="match_parent"
-        android:layout_weight="1">
+        android:layout_weight="1" >
 
         <ImageView
             android:id="@+id/imageView2"
-            android:layout_gravity="center"
-            android:src="@drawable/ic_launcher"/>
+            android:src="@drawable/stark"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:scaleType="fitXY"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"/>
         <ImageView
             android:id="@+id/imageView5"
-            android:layout_gravity="center"
-            android:src="@drawable/ic_launcher"/>
+            android:src="@drawable/stark_name"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:scaleType="fitXY"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"/>
         <ImageView
             android:id="@+id/imageView8"
-            android:layout_gravity="center"
-            android:src="@drawable/ic_launcher"/>
+            android:src="@drawable/stark"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:scaleType="fitXY"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"/>
         <ImageView
             android:id="@+id/imageView11"
-            android:layout_gravity="center"
-            android:src="@drawable/ic_launcher"/>
+            android:src="@drawable/stark_name"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:scaleType="fitXY"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"/>
     </TableRow>
 
     <TableRow
-        android:layout_width="match_parent"
-        android:layout_weight="1">
+        android:layout_weight="1" >
 
         <ImageView
             android:id="@+id/imageView3"
-            android:layout_gravity="center"
-            android:src="@drawable/ic_launcher"/>
+            android:src="@drawable/stark"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:scaleType="fitXY"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"/>
         <ImageView
             android:id="@+id/imageView6"
-            android:layout_gravity="center"
-            android:src="@drawable/ic_launcher"/>
+            android:src="@drawable/stark"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:scaleType="fitXY"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"/>
         <ImageView
             android:id="@+id/imageView9"
-            android:layout_gravity="center"
-            android:src="@drawable/ic_launcher"/>
+            android:src="@drawable/stark"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:scaleType="fitXY"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"/>
         <ImageView
             android:id="@+id/imageView12"
-            android:layout_gravity="center"
-            android:src="@drawable/ic_launcher"/>
+            android:src="@drawable/stark"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:scaleType="fitXY"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"/>
 
     </TableRow>
 
